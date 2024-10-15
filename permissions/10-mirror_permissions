@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 664 [permissions/olleh] 
+chmod -R 664 olleh 
