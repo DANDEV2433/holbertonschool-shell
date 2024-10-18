@@ -1,2 +1,2 @@
 #!/bin/bash
-lsuser /etc/passwd
+cut /etc/passwd
